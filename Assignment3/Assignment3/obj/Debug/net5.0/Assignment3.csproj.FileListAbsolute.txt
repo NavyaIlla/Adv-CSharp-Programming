@@ -1,0 +1,16 @@
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.exe
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.deps.json
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.json
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.dev.json
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.dll
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\ref\Assignment3.dll
+C:\CSharp\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.pdb
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.AssemblyReference.cache
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfoInputs.cache
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfo.cs
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.dll
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\ref\Assignment3.dll
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.pdb
+C:\CSharp\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.genruntimeconfig.cache
